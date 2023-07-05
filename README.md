@@ -37,7 +37,7 @@
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShirokamiRyzen/Nao-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/Nathan19230/NathanFF27])
 
 | BuildPack | LINK |
 |--------|--------|
@@ -94,8 +94,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+git clone https://github.com/Nathan19230/NathanFF27
+cd NathanFF27
 npm install
 npm update
 ```
@@ -110,7 +110,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/ShirokamiRyzen/Nao-MD
+git https://github.com/Nathan19230/NathanFF27
 cd Nao-MD
 npm install
 npm update
